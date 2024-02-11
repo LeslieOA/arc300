@@ -2,4 +2,4 @@
 
 > WIP/TBA/TBC
 
-See [our wiki](https://github.com/LeslieOA/arc300.wiki.git) for notes
+See [our wiki](https://github.com/LeslieOA/arc300/wiki) for notes
